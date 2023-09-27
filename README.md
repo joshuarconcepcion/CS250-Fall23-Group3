@@ -10,9 +10,8 @@ Rules and Expectaions
 - Update everyone whenever anything is uploaded or added to the repo so we are all on the same page
 
 Notes:
-Coordinate meeting times and places over text
-
-Final Submission: Joshua
+- Coordinate meeting times and places over text
+- Final Submission: Joshua
 
 E-sign
 Logan Scully
