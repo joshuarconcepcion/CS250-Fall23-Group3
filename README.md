@@ -11,6 +11,7 @@ Rules and Expectaions
 
 Notes:
 Coordinate meeting times and places over text
+
 Final Submission: Joshua
 
 E-sign
